@@ -1,24 +1,57 @@
-# Hi, I'm CrestXCode 👋
+# Hi, I'm Kashish 👋
 
-Welcome to my GitHub! I'm a **BTech CSE** student specializing in **AI** and **Data Science**. Currently learning the **MERN stack** and building projects like **SecureX**.
+💻 Backend-focused developer | AI & Data Science student
 
-## 🌱 I’m currently working on:
-- Building **SecureX**, an AI-powered fraud detection app.
+---
 
-## 🌱 I’m currently learning:
-- The **MERN stack (Node.js, MongoDB, Express, React)** and AI concepts for data science and machine learning.
+## 🚀 About Me
 
-## 👯 I’m looking to collaborate on:
-- AI, **cybersecurity**, or any **backend development projects**.
+* 🎓 B.Tech student specializing in AI & Data Science
+* ⚡ Focused on building scalable backend systems using FastAPI & REST APIs
+* 🧠 Actively improving Data Structures & Algorithms
+* 🌱 Exploring system design and real-world software development
 
-## 🤔 I’m looking for help with:
-- Understanding **advanced AI techniques** and **scalable backend systems**.
+---
 
-## 📫 How to reach me:
-- Email: [kashish.atal@gmail.com](mailto:kashish.atal@gmail.com)
+## 🛠️ Tech Stack
 
-## 😄 Pronouns:
-- She/Her
+**Languages:**
+Python, Java (learning), SQL, C++ (basic)
 
-## 👩 About me:
-- I’m an enthusiastic and curious student, always seeking to learn and grow. While I may not have all the answers yet, I’m excited to explore new ideas and improve every day! 🚀
+**Backend & Tools:**
+FastAPI, Node.js, Express.js, REST APIs, Git, Postman
+
+**Libraries:**
+Pandas, NumPy, Scikit-learn
+
+**Core CS:**
+Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
+
+---
+
+## 🎯 Current Focus
+
+* 📌 Building developer tools and backend systems
+* 📌 Strengthening problem-solving skills (DSA)
+* 📌 Writing clean, scalable, and maintainable code
+
+---
+
+## 🤝 Open to Collaborate On
+
+* Backend development projects
+* AI-based applications
+* Developer tools
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [kashish.atal@gmail.com]
+* 💼 LinkedIn: https://www.linkedin.com/in/kashish-9050b232b
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building things that solve real problems and continuously improving my skills 🚀
